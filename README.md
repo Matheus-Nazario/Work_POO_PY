@@ -3,27 +3,43 @@
     <img src="https://i.ibb.co/1LyDXjc/geek-Matheus.png" alt="geek-Matheus" border="0" /></a>
 </p>
 
-## Tudo Sobre Pilhas & Filas 📑 com Python 🐍
+## _Workin_ _POO (_Object-Oriented_Programming_) com Python 🐍 🤖🚩
 
 <br>
 
 <p align = "center" id = "project">
 
-  Nesse repositorio tem todos os programas para maximizar os seus estudos e conceito sobre Pilhas & Filas. ⚡🔥
+  Nesse repositorio tem todos os programas para maximizar os seus estudos e conceito sobre POO (_Object-Oriented_Programming_) - Trabalhando com diversos casos de uso exemplificando cada pilar.
  
 </p>
 
 <br>
 
 <h2 id = "techs">
-  🚀 Programas
+
+  🚀 Cada Diretorio trabalhando um Pilar 
+
 </h2>
 
-Sobre os programas:
 
-- [tudo_sobre__Pilhas](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/list_tuplas.py) </br>`  Casos de uso utilizando Pilhas com explicação e lista de exercícios`
 
-- [tudo_sobre_Filas](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/list_tuplas.py) </br> `  Casos de uso utilizando Filas com explicação e lista de exercícios `
+- [01_trabalhando_classes](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/01_trabalhando_classes)  `A abstração consiste em um dos pontos mais importantes dentro de qualquer linguagem Orientada a Objetos. Como estamos lidando com uma representação de um objeto real (o que dá nome ao paradigma`</br>
+
+- [02_duktyping](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/02_duktyping)`Trabalhando Duktyping`</br>
+
+- [03_Relacionamento_entre_classe](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/03_Relacionamento_entre_classes) </br> 
+
+
+- [04_Encapsulamento](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/04_Encapsulamento)`O encapsulamento é uma das principais técnicas que define a programação orientada a objetos. Se trata de um dos elementos que adicionam segurança à aplicação em uma programação orientada a objetos pelo fato de esconder as propriedades, criando uma espécie de caixa preta.`
+</br> 
+
+- [05_Herança](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/05_Heran%C3%A7a)`O reuso de código é uma das grandes vantagens da programação orientada a objetos. Muito disso se dá por uma questão que é conhecida como herança. Essa característica otimiza a produção da aplicação em tempo e linhas de código`</br> 
+
+- [06_Herança_e_Herança_Multipla](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/06_Heran%C3%A7a_e_Heran%C3%A7a_Multipla)
+
+
+- [07_Polimorfismo_e_Classes_Abstratas](https://github.com/Matheus-Nazario/Work_POO_PY/tree/main/07_Polimorfismo_e_Classes_Abstratas) `O polimorfismo consiste na alteração do funcionamento interno de um método herdado de um objeto pai.`
+</br> 
 
 
 <br>
